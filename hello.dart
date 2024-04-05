@@ -1,5 +1,11 @@
 void main() {
-  print('hello, dart');
-  print('3'*22);
-  print(5/4+2-4*2);
+  print('hello, dart puneet vaishnav');
+  print(3 * 2 - 7);
+  print((4 + 2) + (4 * 2) - 10);
+
+  // single line comment comment
+  /*
+  * multiline comment
+  * create notes
+  */
 }
